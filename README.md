@@ -29,9 +29,6 @@
   <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
 </a>
 
-<br><br>
-![](https://github.com/jameswilliam1-bit/jameswilliam1-bit/blob/main/header_.png)
-
 ## <p align="center"><h4 align="center"><samp> A Senior Full Stack Engineer, Mordern React Developer </samp></h4></p>
 
 <div>
