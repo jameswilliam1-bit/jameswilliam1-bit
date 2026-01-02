@@ -36,9 +36,8 @@
   <br>
 
 - 👷 <samp><b>Software Engineer @ GE Healthcare</b>
-- 👨‍🎓 <samp><b>Master of Software Engineering(10/2015 - 11/2019) from University of Edinburgh</b>
-- 🔭 <samp>Bachelor of Computer Science from Heriot-Watt University(09/2013 - 08/2015) 
-- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) || Codeutsava 5.0 Winner (Feb 2022)
+- 👨‍🎓 <samp><b>Master of Software Engineering(10/2017 - 11/2019) from University of Edinburgh</b>
+- 🔭 <samp>Bachelor of Computer Science from Heriot-Watt University(09/2013 - 08/2017) 
 - 💼 <samp>I’m looking for **Full-Remote** Opportunities/roles.
 - 💬 <samp>Ask me about Full Stack Dev/DevOps/IoT.
 </div>
@@ -46,11 +45,11 @@
 ##
 
 <div>
-<h3><b><samp>Experiences:</samp></b></h3>
-- 👨🏾‍💻 <b>Senior Software Engineer @ Shopify</b><br>
-- 🔬 <b>Senior Full Stack Developer @ Doist</b><br>
-- 🕵🏻 <b>Full Stack Developer @ Codeplay Software</b><br>
-- 👷 <b>Junior Software Developer @ Digitalnauts</b><br>
+<h3><b><samp>Experiences:</samp>Digitalnauts</b></h3>
+- 👨🏾‍💻 <b>Senior Software Engineer @ Codeplay Software  </b><br>
+- 🔬 <b>Senior Full Stack Developer @ </b><br>
+- 🕵🏻 <b>Full Stack Developer @ Doist</b><br>
+- 👷 <b>Junior Software Developer @ Shopify</b><br>
 </div>
 
 ##
