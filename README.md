@@ -45,9 +45,9 @@
 ##
 
 <div>
-<h3><b><samp>Experiences:</samp>Digitalnauts</b></h3>
-- 👨🏾‍💻 <b>Senior Software Engineer @ Codeplay Software  </b><br>
-- 🔬 <b>Senior Full Stack Developer @ </b><br>
+<h3><b><samp>Experiences:</samp></b></h3>
+- 👨🏾‍💻 <b>Senior Software Engineer @  Digitalnauts </b><br>
+- 🔬 <b>Senior Full Stack Developer @Codeplay Software</b><br>
 - 🕵🏻 <b>Full Stack Developer @ Doist</b><br>
 - 👷 <b>Junior Software Developer @ Shopify</b><br>
 </div>
